@@ -1,0 +1,19 @@
+
+#l-nav{
+	
+	background-color: gray;
+	height: 650px;
+	width: 250px;
+	float: left;
+	border: 5px solid;
+	border-color:gray;
+	border-radius: 20px;
+	margin: 0 auto;
+	
+}
+
+.a{
+	text-decortion: none;
+}
+
+
